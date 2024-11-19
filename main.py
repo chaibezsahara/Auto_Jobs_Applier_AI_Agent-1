@@ -1,7 +1,7 @@
 import os
 import re
 import sys
-from pathlib import Path
+sys.path.append('/Users/mirastolegenov/Auto_Jobs_Applier_AIHawk/virtual/lib/python3.13')
 import yaml
 import click
 from selenium import webdriver
